@@ -2,4 +2,4 @@
 
 Record ORACLE,PostgreSQL,MySQL Database maintainace knowledge.
 
-My name is Kevin, a database, c++ 
+My name is Kevin, a database, c++ fan. 
