@@ -1,6 +1,5 @@
-# blog
-databaseblog
+## Database management blog
 
-#edit by kevin.fwk
+Record ORACLE,PostgreSQL,MySQL Database maintainace knowledge.
 
-My first github blog.
+My name is Kevin, a database, c++ 
